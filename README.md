@@ -2,7 +2,7 @@
 
 This code is for the paper "Nuemrical Integration of Uplink Covergae Probability in Cellular Networks" which is under review.
 
-Tha main file is paper.m. Any problem please contact the author.
+The main file is paper.m. Any problem please contact the author.
 
 Some algorithm comes from [1]
 
